@@ -1,6 +1,6 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Vansh;AI+%26+ML+Developer;Data+Science+Student+%40+IIT+Madras;Building+Projects+Every+Day;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="700" alt="Matrix Digital Rain">
 </p>
 
 <!-- Coding GIF -->
@@ -88,19 +88,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvnsh&theme=tokyonight&layout=compact&hide_border=true)
 
----
 
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsvnsh&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=itsvnsh&theme=tokyonight&no-frame=true&margin-w=10)
-
----
 
 # ✍️ Random Dev Quote
 
