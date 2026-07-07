@@ -72,14 +72,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=itsvnsh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=itsvnsh&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvnsh&theme=tokyonight&layout=compact&hide_border=true)
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman-contribution-graph.svg">
