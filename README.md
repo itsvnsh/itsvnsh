@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vansh;AI+%26+ML+Developer;Full+Stack+Learner;Building+Projects+Every+Day;Open+to+Internships+%F0%9F%9A%80" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Vansh</h1>
-<h3 align="center">AI/ML Enthusiast | Full Stack Learner | Data Science Student</h3>
 
 ---
 
@@ -83,6 +81,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsvnsh&theme=tokyonight&layout=compact&hide_border=true)
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman-contribution-graph.svg">
+</p>
 
 # ✍️ Random Dev Quote
 
